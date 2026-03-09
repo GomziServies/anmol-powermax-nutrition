@@ -72,6 +72,7 @@
   .bwp-button {
   font-size: 13px;
   letter-spacing: 1px;
+  color: white;
 }
 
 .elementor-28362
@@ -801,6 +802,21 @@
   letter-spacing: 1.5px;
   margin-bottom: 15px;
   margin-top: 0;
+  color: white !important;
+}
+
+.elementor-28362
+  .elementor-element.elementor-element-2c18869
+  .bwp-image-product-countdown
+  .content .product-title a {
+  color: white !important;
+}
+
+.elementor-28362
+  .elementor-element.elementor-element-2c18869
+  .bwp-image-product-countdown
+  .content .product-title a b {
+  color: white !important;
 }
 
 .elementor-28362
@@ -1119,7 +1135,7 @@
   font-family: "Bebas Neue", Sans-serif;
   font-size: 30px;
   text-transform: uppercase;
-  color: #00000080;
+  color: #cecece;
 }
 
 .elementor-28362
@@ -1127,7 +1143,7 @@
   .wpbingo-elementor-marquee-text
   a:nth-child(odd)
   * {
-  color: #000000;
+  color: #ffffff;
 }
 
 .elementor-28362
@@ -1471,6 +1487,11 @@
   a {
   font-family: "Outfit", Sans-serif;
   font-size: 18px;
+}
+
+.elementor-28362 .elementor-element.elementor-element-010029b .elementor-icon-box-title,
+.elementor-28362 .elementor-element.elementor-element-010029b .elementor-icon-box-title a {
+  color: white !important;
 }
 
 @media (min-width: 768px) {

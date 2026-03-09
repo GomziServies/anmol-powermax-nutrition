@@ -99,6 +99,7 @@
   .elementor-element.elementor-element-a42db69
   .elementor-heading-title {
   font-size: 20px;
+  color: white !important;
 }
 
 .elementor-15115
@@ -108,11 +109,15 @@
   padding: 0px 0px 20px 0px;
   border-style: solid;
   border-width: 0px 0px 1px 0px;
-  border-color: black;
+  border-color: white;
 }
 
 .elementor-15115 .elementor-element.elementor-element-7f5794b {
-  color: #000000;
+  color: white !important;
+}
+
+.elementor-15115 .elementor-element.elementor-element-7f5794b a {
+  color: white !important;
 }
 
 .elementor-15115
@@ -125,6 +130,7 @@
   .elementor-element.elementor-element-717c8dd
   .elementor-heading-title {
   font-size: 20px;
+  color: white !important;
 }
 
 .elementor-15115
@@ -134,11 +140,15 @@
   padding: 0px 0px 20px 0px;
   border-style: solid;
   border-width: 0px 0px 1px 0px;
-  border-color: black;
+  border-color: white;
 }
 
 .elementor-15115 .elementor-element.elementor-element-3355a48 {
-  color: #000000;
+  color: white !important;
+}
+
+.elementor-15115 .elementor-element.elementor-element-3355a48 a {
+  color: white !important;
 }
 
 .elementor-15115
@@ -151,6 +161,7 @@
   .elementor-element.elementor-element-560831d
   .elementor-heading-title {
   font-size: 20px;
+  color: white !important;
 }
 
 .elementor-15115
@@ -160,11 +171,15 @@
   padding: 0px 0px 20px 0px;
   border-style: solid;
   border-width: 0px 0px 1px 0px;
-  border-color: black;
+  border-color: white;
 }
 
 .elementor-15115 .elementor-element.elementor-element-8cddc42 {
-  color: #000000;
+  color: white !important;
+}
+
+.elementor-15115 .elementor-element.elementor-element-8cddc42 a {
+  color: white !important;
 }
 
 .elementor-15115
@@ -203,6 +218,15 @@
   .elementor-element.elementor-element-a1cd19a
   .elementor-heading-title {
   font-size: 20px;
+  color: white !important;
+}
+
+.elementor-15115 .elementor-element.elementor-element-2191dcb .social-link a {
+  color: white !important;
+}
+
+.elementor-15115 .elementor-element.elementor-element-2191dcb .social-link a i {
+  color: white !important;
 }
 
 @media (min-width: 768px) {
